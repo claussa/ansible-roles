@@ -1,0 +1,11 @@
+*.DS_Store
+.tags*
+.idea/*
+.vscode
+
+# Ansible
+
+ansible/inventories
+*.retry
+ansible/env
+ansible/tmp
